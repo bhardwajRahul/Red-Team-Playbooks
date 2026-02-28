@@ -88,7 +88,7 @@
 - Twitter
 - DNS-over-HTTP
 
-##### Command & Control Controll Tiers
+##### Command & Control Control Tiers
 
 Tier 3: Intertactive (regular ops)
 Tier 2: Short Haul (short-term) (longer callback than tier 3, callback every few hours)
